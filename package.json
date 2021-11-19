@@ -4,5 +4,9 @@
   "dependencies": {
     "emoji.json": "^13.1.0",
     "enquirer": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nga20167304/nga-emoji"
   }
 }
