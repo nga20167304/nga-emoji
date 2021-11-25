@@ -8,6 +8,13 @@
 
 # Quick Start
 
+In package.json file, add
+<pre><code>
+  "scripts": {
+    "nga-emoji": "node ./node_modules/nga-emoji/index.js"
+  }
+</code></pre>
+
 ```shell
 npm run nga-emoji
 ```
