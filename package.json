@@ -6,7 +6,7 @@
     "enquirer": "^2.3.6"
   },
   "scripts": {
-    "nga-emoji": "node ./index.js"
+    "nga-emoji": "node nga-emoji/index.js"
   },
   "repository": {
     "type": "git",
