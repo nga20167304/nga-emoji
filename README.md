@@ -8,9 +8,8 @@
 
 # Quick Start
 
-```javascript
-const clist = require('nga-emoji')
-clist()
+```shell
+npm run nga-emoji
 ```
 
 ```shell
