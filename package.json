@@ -1,6 +1,6 @@
 {
   "name": "nga-emoji",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
     "emoji.json": "^13.1.0",
     "enquirer": "^2.3.6"
